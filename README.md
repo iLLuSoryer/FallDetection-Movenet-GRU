@@ -11,5 +11,11 @@ __注意：__
 
 __成品範例__
 
-https://github.com/iLLuSoryer/FallDetection-Movenet-GRU/assets/91926628/e1d0edaf-acc7-4779-af87-e44638d73d71
+
+
+https://github.com/iLLuSoryer/FallDetection-Movenet-GRU/assets/91926628/cc771fa8-650b-4d4a-8a0f-8ddce9576930
+
+
+
+https://github.com/iLLuSoryer/FallDetection-Movenet-GRU/assets/91926628/c3bf2290-d20e-4397-a99d-548df9f832b6
 
